@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="795" height="360.5" viewBox="0 0 795 360.5">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e0ebe8"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" y1="0" x2="0.5" y2="1" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="mountain_2" transform="translate(-3 -7.5)">
+    <g id="flagLeft">
+      <rect id="flagPoleLeft" width="4" height="144" transform="translate(65 83)" fill="#fff"/>
+      <path id="leftGreenFlag2" d="M28.5,108.83l41-15.33v32Zm0,0" fill="#f4a0a0"/>
+      <path id="leftGreenFlag" d="M28.5,88.83l41-15.33v32Zm0,0" fill="#58d6b9"/>
+    </g>
+    <g id="flagRight">
+      <rect id="flagPoleLeft2" width="4" height="144" transform="translate(725 83)" fill="#fff"/>
+      <path id="leftGreenFlag3" d="M688.5,108.83l41-15.33v32Zm0,0" fill="#58d6b9"/>
+      <path id="leftGreenFlag4" d="M688.5,88.83l41-15.33v32Zm0,0" fill="#f4a0a0"/>
+    </g>
+    <g id="brownHouse">
+      <rect id="rectangle15" width="23" height="23" transform="translate(411 37)" fill="#ca8a65"/>
+      <rect id="rectangle16" width="6" height="6" transform="translate(414 41)" fill="#c6f7fb"/>
+      <rect id="rectangle17" width="6" height="6" transform="translate(426 41)" fill="#c6f7fb"/>
+      <rect id="rectangle18" width="6" height="6" transform="translate(414 51)" fill="#c6f7fb"/>
+      <rect id="rectangle19" width="6" height="9" transform="translate(426 51)" fill="#70595e"/>
+      <path id="polygon2" d="M422.5,25.38l15.44,12.41H407.06Zm0,0" fill="#70595e"/>
+      <path id="oval10" d="M427.01,19.3c.09-5.51,1.29-9.66,2.66-9.28s2.42,5.17,2.32,10.68-1.29,9.66-2.66,9.28C428.02,29.61,427,25.25,427,20" fill="url(#linear-gradient)"/>
+      <rect id="rectangle20" width="6.5" height="9" transform="translate(426 26)" fill="#70595e"/>
+    </g>
+    <g id="hills">
+      <path id="backHill" d="M212,231c0-98.86,84.62-179,189-179s189,80.14,189,179H212Zm0,0" fill="#3e9c87"/>
+      <path id="whiteHill" d="M333,368c0-123.71,104.09-209,232.5-209S798,244.29,798,368H333Zm0,0" fill="#fff"/>
+      <path id="leftHill" d="M3,368C3,238.21,116.94,133,257.5,133S512,238.21,512,368H3Zm0,0" fill="#4ab19a"/>
+    </g>
+    <g id="yellowTree">
+      <ellipse id="oval" cx="12" cy="5.5" rx="12" ry="5.5" transform="translate(92 210)" fill="#439f8a"/>
+      <path id="bezier" d="M89.5,201.5l13.38-56,15.62,56Zm0,0" fill="#f6d546"/>
+      <rect id="rectangle" width="2" height="37" transform="translate(103 178)" fill="#af946c"/>
+      <path id="bezier2" d="M103.5,187.34l5.73-5.84,1.27,1.3-6.36,6.48-.43.22Zm0,0" fill="#af946c"/>
+      <path id="bezier3" d="M103.5,195.34l5.73-5.84,1.27,1.3-6.36,6.48-.43.22Zm0,0" fill="#af946c"/>
+      <path id="bezier4" d="M104.5,191.34l-5.73-5.84-1.27,1.3,6.36,6.48.43.22Zm0,0" fill="#af946c"/>
+    </g>
+    <g id="yellowTree2">
+      <ellipse id="oval3" cx="10.25" cy="4" rx="10.25" ry="4" transform="translate(168 183)" fill="#439f8a"/>
+      <path id="bezier9" d="M163.5,175.3l13.38-50.85L192.5,175.3Zm0,0" fill="#f4a0a0"/>
+      <rect id="rectangle3" width="2" height="30" transform="translate(177 157)" fill="#af946c"/>
+      <path id="bezier10" d="M177.5,162.44l5.73-5.3,1.27,1.18-6.36,5.89-.43.19Zm0,0" fill="#af946c"/>
+      <path id="bezier11" d="M177.5,169.7l5.73-5.3,1.27,1.18-6.36,5.89-.43.19Zm0,0" fill="#af946c"/>
+      <path id="bezier12" d="M178.5,166.07l-5.73-5.3-1.27,1.18,6.36,5.89.43.19Zm0,0" fill="#af946c"/>
+    </g>
+    <g id="yellowTree3">
+      <ellipse id="oval4" cx="10.75" cy="4" rx="10.75" ry="4" transform="translate(592 191)" fill="#e0ebe8"/>
+      <path id="bezier13" d="M588.5,183.3l13.38-50.85L617.5,183.3Zm0,0" fill="#f4a0a0"/>
+      <rect id="rectangle4" width="2" height="30" transform="translate(602 165)" fill="#af946c"/>
+      <path id="bezier14" d="M602.5,170.44l5.73-5.3,1.27,1.18-6.36,5.89-.43.19Zm0,0" fill="#af946c"/>
+      <path id="bezier15" d="M602.5,177.7l5.73-5.3,1.27,1.18-6.36,5.89-.43.19Zm0,0" fill="#af946c"/>
+      <path id="bezier16" d="M603.5,174.07l-5.73-5.3-1.27,1.18,6.36,5.89.43.19Zm0,0" fill="#af946c"/>
+    </g>
+    <g id="yellowTree4">
+      <ellipse id="oval5" cx="10" cy="4" rx="10" ry="4" transform="translate(669 207)" fill="#e0ebe8"/>
+      <path id="bezier17" d="M664.5,197.5l13.38-56,15.62,56Zm0,0" fill="#f6d546"/>
+      <rect id="rectangle5" width="2" height="37" transform="translate(678 174)" fill="#af946c"/>
+      <path id="bezier18" d="M678.5,183.34l5.73-5.84,1.27,1.3-6.36,6.48-.43.22Zm0,0" fill="#af946c"/>
+      <path id="bezier19" d="M678.5,191.34l5.73-5.84,1.27,1.3-6.36,6.48-.43.22Zm0,0" fill="#af946c"/>
+      <path id="bezier20" d="M679.5,187.34l-5.73-5.84-1.27,1.3,6.36,6.48.43.22Zm0,0" fill="#af946c"/>
+    </g>
+    <g id="darkGreenTree2">
+      <ellipse id="oval6" cx="12" cy="4" rx="12" ry="4" transform="translate(633 245)" fill="#e0ebe8"/>
+      <path id="bezier21" d="M627.5,238.51l16.38-62.02L663,238.51Zm0,0" fill="#217d68"/>
+      <rect id="rectangle6" width="2" height="33" transform="translate(644 216)" fill="#af946c"/>
+      <path id="bezier22" d="M644.5,222.75l5.73-5.76,1.27,1.28-6.36,6.41-.43.21Zm0,0" fill="#af946c"/>
+      <path id="bezier23" d="M644.5,230.65l5.73-5.76,1.27,1.28-6.36,6.41-.43.21Zm0,0" fill="#af946c"/>
+      <path id="bezier24" d="M645.5,226.7l-5.73-5.76-1.27,1.28,6.36,6.41.43.21Zm0,0" fill="#af946c"/>
+    </g>
+    <g id="yellowTree5">
+      <ellipse id="oval2" cx="12" cy="5.5" rx="12" ry="5.5" transform="translate(131 194)" fill="#439f8a"/>
+      <path id="bezier5" d="M127.5,185.5l14.77-69,17.23,69Zm0,0" fill="#217d68"/>
+      <rect id="rectangle2" width="2" height="37" transform="translate(142 162)" fill="#af946c"/>
+      <path id="bezier6" d="M142.5,171.34l5.73-5.84,1.27,1.3-6.36,6.48-.43.22Zm0,0" fill="#af946c"/>
+      <path id="bezier7" d="M142.5,179.34l5.73-5.84,1.27,1.3-6.36,6.48-.43.22Zm0,0" fill="#af946c"/>
+      <path id="bezier8" d="M143.5,175.34l-5.73-5.84-1.27,1.3,6.36,6.48.43.22Zm0,0" fill="#af946c"/>
+    </g>
+    <g id="yellowTree6">
+      <ellipse id="oval7" cx="12" cy="5.5" rx="12" ry="5.5" transform="translate(337 85)" fill="#378c79"/>
+      <path id="bezier25" d="M333.5,76.5l14.77-69,17.23,69Zm0,0" fill="#8fd182"/>
+      <rect id="rectangle7" width="2" height="37" transform="translate(348 53)" fill="#af946c"/>
+      <path id="bezier26" d="M348.5,62.34l5.73-5.84,1.27,1.3-6.36,6.48-.43.22Zm0,0" fill="#af946c"/>
+      <path id="bezier27" d="M348.5,70.34l5.73-5.84,1.27,1.3-6.36,6.48-.43.22Zm0,0" fill="#af946c"/>
+      <path id="bezier28" d="M349.5,66.34l-5.73-5.84-1.27,1.3,6.36,6.48.43.22Zm0,0" fill="#af946c"/>
+    </g>
+    <g id="yellowTree7">
+      <ellipse id="oval8" cx="10.25" cy="4" rx="10.25" ry="4" transform="translate(482 100)" fill="#378c79"/>
+      <path id="bezier29" d="M477.5,92.3l13.38-50.85L506.5,92.3Zm0,0" fill="#217d68"/>
+      <rect id="rectangle8" width="2" height="30" transform="translate(491 74)" fill="#af946c"/>
+      <path id="bezier30" d="M491.5,79.44l5.73-5.3,1.27,1.18-6.36,5.89-.43.19Zm0,0" fill="#af946c"/>
+      <path id="bezier31" d="M491.5,86.7l5.73-5.3,1.27,1.18-6.36,5.89-.43.19Zm0,0" fill="#af946c"/>
+      <path id="bezier32" d="M492.5,83.07l-5.73-5.3-1.27,1.18,6.36,5.89.43.19Zm0,0" fill="#af946c"/>
+    </g>
+    <g id="blueHouse">
+      <rect id="rectangle9" width="30" height="30" transform="translate(204 121)" fill="#6da0ab"/>
+      <rect id="rectangle10" width="8" height="8" transform="translate(208 126)" fill="#c6f7fb"/>
+      <rect id="rectangle11" width="8" height="8" transform="translate(223 126)" fill="#c6f7fb"/>
+      <rect id="rectangle12" width="8" height="8" transform="translate(208 139)" fill="#c6f7fb"/>
+      <rect id="rectangle13" width="8" height="12" transform="translate(223 139)" fill="#70595e"/>
+      <path id="polygon" d="M219,106l19.92,16.12H199.08Zm0,0" fill="#70595e"/>
+      <path id="oval9" d="M225.01,98.09c.11-7.16,1.55-12.56,3.2-12.06s2.9,6.71,2.78,13.88-1.55,12.56-3.2,12.06c-1.57-.48-2.79-6.14-2.79-12.97" fill="url(#linear-gradient-2)"/>
+      <rect id="rectangle14" width="7.5" height="12" transform="translate(224 107)" fill="#70595e"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="306" height="150" viewBox="0 0 306 150">
+  <defs>
+    <clipPath id="clip-path">
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="75" cy="75" r="75" transform="translate(-0.1)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f5f5f5"/>
+      <stop offset="1" stop-color="#d6d6d6"/>
+    </linearGradient>
+  </defs>
+  <g id="sean_develop" transform="translate(-484 -59)">
+    <g id="sean-halpin" transform="translate(617.1 59)">
+      <circle id="oval2" cx="75" cy="75" r="75" transform="translate(-0.1)" fill="#f3f2f1"/>
+      <g id="group" clip-path="url(#clip-path)">
+        <g id="page1" transform="translate(9.089 23.89)">
+          <g id="layer_1" transform="translate(0 0)">
+            <g id="layer_1_1_">
+              <path id="bezier2" d="M81.09,233.867c4.175,1.563,4.994,9.675,1.827,18.122S73.8,266.02,69.628,264.458s-4.994-9.678-1.827-18.122S76.919,232.3,81.09,233.867Zm0,0" transform="translate(-53.086 -160.549)" fill="#f3c5ad"/>
+              <path id="bezier" d="M85.45,313.56v6.455h42.771V313.56Zm0,0" transform="translate(-65.274 -210.323)"/>
+              <path id="bezier3" d="M68.115,281.082c-.636-.419-.657-2.084-.087-3.842q-.1.212-.181.442c-.732,1.918-.766,3.842-.076,4.3s1.842-.729,2.574-2.646c.057-.155.11-.306.158-.457-.729,1.653-1.755,2.623-2.389,2.2Zm0,0" transform="translate(-53.959 -187.713)" fill="rgba(26,23,24,0.3)"/>
+              <path id="bezier4" d="M165.626,221.867c-4.175,1.563-4.994,9.675-1.827,18.122s9.118,14.03,13.289,12.468,4.994-9.678,1.827-18.122S169.8,220.3,165.626,221.867Zm0,0" transform="translate(-112.849 -153.079)" fill="#f3c5ad"/>
+              <path id="bezier5" d="M191.562,289.072c-1.234,0-2.246-1.9-2.4-4.352q-.023.317-.023.645c0,2.763,1.084,5,2.42,5s2.423-2.239,2.423-5c0-.219-.011-.434-.026-.645-.151,2.453-1.166,4.352-2.393,4.352Zm0,0" transform="translate(-129.824 -192.369)" fill="rgba(26,23,24,0.3)"/>
+              <path id="bezier6" d="M125.6,231.1l-7.383-10.483-5.949,2.733-.529-1.725H87.994l-.408,1.495-5.443-2.5L74.76,231.1l9.433,4.333-5.8,21.074h44.022l-6.425-20.993Zm0,0" transform="translate(-58.619 -152.465)" fill="#3aa488"/>
+              <path id="bezier7" d="M130.789,230.058a6.856,6.856,0,1,0-6.856-6.856A6.856,6.856,0,0,0,130.789,230.058Zm0,0" transform="translate(-89.23 -149.806)" fill="#fff"/>
+              <path id="bezier8" d="M132.776,232.057a5.269,5.269,0,1,0-5.636-5.258A5.456,5.456,0,0,0,132.776,232.057Zm0,0" transform="translate(-91.228 -153.039)" fill="#d5a691"/>
+              <path id="bezier9" d="M37.447,150.311A5.443,5.443,0,1,0,32,144.869a5.443,5.443,0,0,0,5.447,5.443Zm0,0" transform="translate(-32 -101.918)" fill="#f3c5ad"/>
+              <path id="bezier10" d="M225.587,150.311a5.443,5.443,0,1,0-5.447-5.443,5.443,5.443,0,0,0,5.447,5.443Zm0,0" transform="translate(-149.123 -101.918)" fill="#f3c5ad"/>
+              <path id="bezier11" d="M82.012,142.468c19.945,0,36.112-12.641,36.112-28.231S101.958,86.01,82.012,86.01,45.9,98.648,45.9,114.237,62.067,142.468,82.012,142.468Zm0,0" transform="translate(-40.653 -68.666)" fill="#f3c5ad"/>
+              <path id="bezier12" d="M76.579,153.315c0,3.521-2.8-4.524-6.255-4.524s-6.255,8.047-6.255,4.524a6.256,6.256,0,0,1,12.511,0Zm0,0" transform="translate(-51.964 -106.619)" fill="rgba(26,23,24,0.38)"/>
+              <path id="bezier13" d="M203.786,153.315c0,3.522-2.8-4.524-6.255-4.524s-6.251,8.047-6.251,4.524a6.253,6.253,0,1,1,12.506,0Zm0,0" transform="translate(-131.157 -106.62)" fill="rgba(26,23,24,0.38)"/>
+              <path id="bezier14" d="M192.264,133.034c4.473,0,8.134,3.076,8.448,6.979.015-.177.026-.358.026-.54,0-4.156-3.794-7.523-8.474-7.523s-8.474,3.367-8.474,7.523c0,.181.011.363.026.54.313-3.9,3.975-6.979,8.448-6.979Zm0,0" transform="translate(-126.494 -97.265)" fill="rgba(26,23,24,0.3)"/>
+              <path id="bezier15" d="M66.13,133.034c4.476,0,8.138,3.076,8.452,6.979.011-.177.023-.358.023-.54,0-4.156-3.794-7.523-8.474-7.523s-8.47,3.367-8.47,7.523c0,.181.008.363.023.54.313-3.9,3.975-6.979,8.448-6.979Zm0,0" transform="translate(-47.974 -97.265)" fill="rgba(26,23,24,0.3)"/>
+              <path id="bezier16" d="M118.069,64.666c.034-.389.053-.781.053-1.174,0-5.036-2.85-9.67-7.628-13.355-.577-.445,1.955-5.647,1.325-6.062-.536-.353-4.231,4.073-4.807,3.741-.276-.158-.558-.317-.842-.468-1.05-.57.141-6.765-1.012-7.259-1.008-.43-4.352,4.836-5.436,4.465a55.61,55.61,0,0,0-17.718-2.789C62.43,41.765,46.5,51.13,45.9,62.816h72.169v1.85Zm0,0" transform="translate(-40.653 -40.064)" fill="#eca042"/>
+              <path id="bezier17" d="M118.125,98.83H45.9v22.58s23.577-7.444,31.432-9.928l19.677-6.213,21.116,16.141Zm0,0" transform="translate(-40.653 -76.647)" fill="#eca042"/>
+              <path id="bezier18" d="M141.03,317.84v5.243h.4V317.84Zm0,0" transform="translate(-99.874 -212.988)" fill="#2c2723"/>
+              <path id="bezier19" d="M138.777,170.142a2.017,2.017,0,0,1,1.979,1.616,2.017,2.017,0,1,0-3.952,0,2.017,2.017,0,0,1,1.974-1.616Zm0,0" transform="translate(-97.217 -120.54)" fill="rgba(26,23,24,0.3)"/>
+              <path id="bezier20" d="M201.241,191.391a1.414,1.414,0,1,0-1.414-1.414A1.414,1.414,0,0,0,201.241,191.391Zm0,0" transform="translate(-136.479 -132.511)" fill="rgba(246,172,44,0.5)"/>
+              <path id="bezier21" d="M208.984,198.328a.6.6,0,1,0-.6-.6A.6.6,0,0,0,208.984,198.328Zm0,0" transform="translate(-141.802 -137.836)" fill="rgba(246,172,44,0.5)"/>
+              <path id="bezier22" d="M194.218,197.662a.806.806,0,1,0-.808-.808A.806.806,0,0,0,194.218,197.662Zm0,0" transform="translate(-132.483 -137.17)" fill="rgba(246,172,44,0.5)"/>
+              <path id="bezier23" d="M200.03,198.583a.2.2,0,1,0-.2-.2A.2.2,0,0,0,200.03,198.583Zm0,0" transform="translate(-136.479 -138.495)" fill="rgba(246,172,44,0.5)"/>
+              <path id="bezier24" d="M83.651,191.391a1.414,1.414,0,1,0-1.414-1.414A1.414,1.414,0,0,0,83.651,191.391Zm0,0" transform="translate(-63.275 -132.511)" fill="rgba(246,172,44,0.5)"/>
+              <path id="bezier25" d="M91.4,198.328a.6.6,0,1,0-.608-.6A.6.6,0,0,0,91.4,198.328Zm0,0" transform="translate(-68.598 -137.836)" fill="rgba(246,172,44,0.5)"/>
+              <path id="bezier26" d="M75.565,197.662a.806.806,0,1,0-.572-.236.806.806,0,0,0,.572.236Zm0,0" transform="translate(-58.618 -137.17)" fill="rgba(246,172,44,0.5)"/>
+              <path id="bezier27" d="M81.374,198.583a.2.2,0,1,0-.143-.058A.2.2,0,0,0,81.374,198.583Zm0,0" transform="translate(-62.61 -138.495)" fill="rgba(246,172,44,0.5)"/>
+              <path id="bezier28" d="M62.449,182.159a10.907,10.907,0,0,0-8,3.484c3.431,6.032,9.472,10.943,16.99,13.854a11.041,11.041,0,0,0-8.991-17.341Zm0,0" transform="translate(-45.976 -128.521)" fill="rgba(7,7,6,0.05)"/>
+              <path id="bezier29" d="M189.415,182.159a10.907,10.907,0,0,1,8,3.484c-3.431,6.032-9.472,10.943-16.99,13.854a11.041,11.041,0,0,1,8.991-17.341Zm0,0" transform="translate(-123.17 -128.521)" fill="rgba(7,7,6,0.05)"/>
+              <path id="bezier30" d="M71.226,331.324a1.457,1.457,0,1,0-1.816-1.414,1.65,1.65,0,0,0,1.816,1.414Zm0,0" transform="translate(-55.289 -219.618)" fill="#2c2723"/>
+              <path id="bezier31" d="M78.716,331.324a1.457,1.457,0,1,0-1.816-1.414,1.653,1.653,0,0,0,1.816,1.414Zm0,0" transform="translate(-59.952 -219.618)" fill="#2c2723"/>
+              <path id="bezier32" d="M86.2,331.324a1.457,1.457,0,1,0-1.816-1.414,1.65,1.65,0,0,0,1.816,1.414Zm0,0" transform="translate(-64.608 -219.618)" fill="#2c2723"/>
+              <path id="bezier33" d="M94.747,331.324a1.457,1.457,0,1,0-1.816-1.414A1.65,1.65,0,0,0,94.747,331.324Zm0,0" transform="translate(-69.931 -219.618)" fill="#2c2723"/>
+              <path id="bezier34" d="M102.226,331.324a1.457,1.457,0,1,0-1.816-1.414,1.651,1.651,0,0,0,1.816,1.414Zm0,0" transform="translate(-74.587 -219.618)" fill="#2c2723"/>
+              <path id="bezier35" d="M109.716,331.324a1.457,1.457,0,1,0-1.816-1.414,1.653,1.653,0,0,0,1.816,1.414Zm0,0" transform="translate(-79.25 -219.618)" fill="#2c2723"/>
+              <path id="bezier36" d="M118.266,331.324a1.457,1.457,0,1,0-1.816-1.414A1.65,1.65,0,0,0,118.266,331.324Zm0,0" transform="translate(-84.573 -219.618)" fill="#2c2723"/>
+              <path id="bezier37" d="M125.747,331.324a1.457,1.457,0,1,0-1.816-1.414,1.651,1.651,0,0,0,1.816,1.414Zm0,0" transform="translate(-89.23 -219.618)" fill="#2c2723"/>
+              <path id="bezier38" d="M133.226,331.324a1.457,1.457,0,1,0-1.816-1.414A1.65,1.65,0,0,0,133.226,331.324Zm0,0" transform="translate(-93.886 -219.618)" fill="#2c2723"/>
+              <path id="bezier39" d="M143.916,331.324a1.457,1.457,0,1,0-1.816-1.414,1.651,1.651,0,0,0,1.816,1.414Zm0,0" transform="translate(-100.541 -219.618)" fill="#2c2723"/>
+              <path id="bezier40" d="M151.406,331.324a1.457,1.457,0,1,0-1.816-1.414,1.653,1.653,0,0,0,1.816,1.414Zm0,0" transform="translate(-105.203 -219.618)" fill="#2c2723"/>
+              <path id="bezier41" d="M158.886,331.324a1.457,1.457,0,1,0-1.816-1.414A1.65,1.65,0,0,0,158.886,331.324Zm0,0" transform="translate(-109.86 -219.618)" fill="#2c2723"/>
+              <path id="bezier42" d="M167.436,331.324a1.457,1.457,0,1,0-1.816-1.414A1.65,1.65,0,0,0,167.436,331.324Zm0,0" transform="translate(-115.183 -219.618)" fill="#2c2723"/>
+              <path id="bezier43" d="M174.916,331.324a1.457,1.457,0,1,0-1.816-1.414A1.65,1.65,0,0,0,174.916,331.324Zm0,0" transform="translate(-119.839 -219.618)" fill="#2c2723"/>
+              <path id="bezier44" d="M182.406,331.324a1.457,1.457,0,1,0-1.816-1.414,1.653,1.653,0,0,0,1.816,1.414Zm0,0" transform="translate(-124.502 -219.618)" fill="#2c2723"/>
+              <path id="bezier45" d="M190.956,331.324a1.457,1.457,0,1,0-1.816-1.414,1.653,1.653,0,0,0,1.816,1.414Zm0,0" transform="translate(-129.825 -219.618)" fill="#2c2723"/>
+              <path id="bezier46" d="M198.436,331.324a1.457,1.457,0,1,0-1.816-1.414,1.651,1.651,0,0,0,1.816,1.414Zm0,0" transform="translate(-134.481 -219.618)" fill="#2c2723"/>
+              <path id="bezier47" d="M205.916,331.324a1.457,1.457,0,1,0-1.816-1.414A1.651,1.651,0,0,0,205.916,331.324Zm0,0" transform="translate(-139.138 -219.618)" fill="#2c2723"/>
+              <path id="bezier48" d="M114.821,174.038c9.139,0,16.545-.811,16.545-1.816s-7.406-1.812-16.545-1.812-16.54.811-16.54,1.812S105.686,174.038,114.821,174.038Zm0,0" transform="translate(-73.261 -121.208)" fill="rgba(26,23,24,0.05)"/>
+              <path id="bezier49" d="M83.131,317.84c-7.58,0-13.721,2.526-13.721,5.643H96.848C96.848,320.366,90.707,317.84,83.131,317.84Zm0,0" transform="translate(-55.289 -212.988)" fill="#fff"/>
+              <path id="bezier50" d="M155.821,317.84c-7.576,0-13.721,2.526-13.721,5.643h27.438c0-3.118-6.141-5.643-13.717-5.643Zm0,0" transform="translate(-100.541 -212.988)" fill="#fff"/>
+              <path id="bezier51" d="M65.426,266.683c-.778-1.087-1.846-1.653-2.389-1.265s-.353,1.585.424,2.668,1.85,1.653,2.393,1.268S66.2,267.773,65.426,266.683Zm0,0" transform="translate(-51.127 -180.277)" fill="#f1b89c"/>
+            </g>
+            <path id="bezier52" d="M135.835,192.147c0,2.552-5.05,4.628-11.3,4.628s-11.3-2.08-11.3-4.628c0-2.571,5.05-4.647,11.3-4.647S135.835,189.576,135.835,192.147Zm0,0" transform="translate(-82.574 -131.847)" fill="none" stroke="#a48677" stroke-width="3"/>
+            <path id="bezier53" d="M110.03,184.29v5.647h24.615V184.29Zm0,0" transform="translate(-80.576 -129.849)" fill="#f3c5ad"/>
+          </g>
+        </g>
+      </g>
+      <path id="Intersection_1" data-name="Intersection 1" d="M15.759,121H134.242a75.008,75.008,0,0,1-118.483,0Z" transform="translate(-0.1)" fill="#dad9d9"/>
+      <path id="Intersection_4" data-name="Intersection 4" d="M102,131v-5h27.992q-2.431,2.621-5.1,5Z" transform="translate(-0.1)" fill="#f6f5f5"/>
+      <path id="Intersection_3" data-name="Intersection 3" d="M106,126V115h32.454a75.349,75.349,0,0,1-8.463,11Z" transform="translate(-0.1)" fill="#e3e3e3"/>
+      <rect id="Rectangle_14" data-name="Rectangle 14" width="93" height="71" rx="3" transform="translate(79.9 45)" fill="url(#linear-gradient)"/>
+      <text id="Dev" transform="translate(111.9 88)" fill="#707070" font-size="18" font-family="SegoeUI, Segoe UI" opacity="0.6"><tspan x="0" y="0">Dev</tspan></text>
+    </g>
+    <g id="develop" transform="translate(194 -4)">
+      <path id="line" d="M0,0H49.132" transform="translate(370.5 138.5)" fill="none" stroke="#f3f2f1" stroke-linecap="round" stroke-width="3" stroke-dasharray="5 6"/>
+      <g id="design-eye">
+        <circle id="oval2-2" data-name="oval2" cx="38.5" cy="38.5" r="38.5" transform="translate(290 100)" fill="#f3f2f1"/>
+        <g id="mobile" transform="translate(-198 -367)">
+          <rect id="Rectangle_15" data-name="Rectangle 15" width="25" height="43" rx="4" transform="translate(514 482)" fill="#fff"/>
+          <rect id="Rectangle_16" data-name="Rectangle 16" width="25" height="33" transform="translate(514 487)" fill="#f6a09f"/>
+          <path id="Intersection_5" data-name="Intersection 5" d="M8.582,18.236H25V46.674Z" transform="translate(514 468.764)" fill="#f7aaa9"/>
+          <g id="Group_2" data-name="Group 2" opacity="0.8">
+            <rect id="Rectangle_19" data-name="Rectangle 19" width="15" height="4" transform="translate(519 492)" fill="#f8c6c5"/>
+            <rect id="Rectangle_20" data-name="Rectangle 20" width="15" height="2" transform="translate(519 499)" fill="#f8c6c5"/>
+            <rect id="Rectangle_21" data-name="Rectangle 21" width="15" height="2" transform="translate(519 503)" fill="#f8c6c5"/>
+            <rect id="Rectangle_22" data-name="Rectangle 22" width="15" height="2" transform="translate(519 507)" fill="#f8c6c5"/>
+            <rect id="Rectangle_23" data-name="Rectangle 23" width="15" height="2" transform="translate(519 511)" fill="#f8c6c5"/>
+          </g>
+          <circle id="Ellipse_9" data-name="Ellipse 9" cx="1.5" cy="1.5" r="1.5" transform="translate(525 521)" fill="#c6c3c0"/>
+          <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="9" cy="1" rx="9" ry="1" transform="translate(518 528)" fill="#dcdbda"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
